@@ -502,3 +502,13 @@ form {
   outline: none;
   border: none;
 }
+
+.submit:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
+.submit:active {
+  background: #2230d2;
+  color: #fff;
+}
