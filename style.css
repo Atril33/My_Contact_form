@@ -207,6 +207,16 @@ i {
   outline: none;
 }
 
+.btn:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
+.btn:active {
+  background: #2230d2;
+  color: #fff;
+}
+
 .project1 {
   width: 100%;
   height: auto;
@@ -340,6 +350,16 @@ i {
   font-size: 25px;
   cursor: pointer;
   outline: none;
+}
+
+.resume:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
+.resume:active {
+  background: #2230d2;
+  color: #fff;
 }
 
 .languages {
@@ -479,4 +499,6 @@ form {
   border-radius: 5px;
   font-weight: 500;
   cursor: pointer;
+  outline: none;
+  border: none;
 }
