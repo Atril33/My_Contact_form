@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-    <img src="https://github.com/didierganthier/hello-microverse-cr-review/blob/master/murple_logo.png" alt="logo" width="150px" />
+  
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -203,7 +203,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">Syed Atril</a>
 
 > Mention all of the collaborators of this project.
 
@@ -211,7 +211,7 @@ Example:
 - HTML
 - CSS
 
-## <img src="https://scontent.fisb6-1.fna.fbcdn.net/v/t39.30808-1/244664695_100276912439806_3650167602209431250_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHOoS20TXUIBI-cKLdq7MyDYfDGj-ys0nFh8MaP7KzScV84n31f_TIamvcf7BRqujzs8jBIhO4AIjnmOxsw6aFp&_nc_ohc=S8v8SjRuzX8AX9Ic0VN&_nc_ht=scontent.fisb6-1.fna&oh=00_AfAN8Wp-6faZ5xU0_Wa00X4SwPTDWgCh1N3eq1-Uska-eg&oe=63C2EE23" border-radisu="50%" width="30px" style="border-radius: 50%;"> Authors <a name="authors"></a>
+# <a name="authors">Syed Atril</a>
 👤 **Syed Atril**
 
 - GitHub: [@githubhandle](https://github.com/Atril33)
