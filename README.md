@@ -203,9 +203,9 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Syed Atril</a>
+## 👥 Authors <a name="authors">Syed & Ndonyi</a>
 
-> Mention all of the collaborators of this project.
+> This Project is created by Syed & Ndonyi
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
